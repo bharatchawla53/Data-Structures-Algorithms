@@ -42,7 +42,11 @@
    * Time Complexity:
       - Range Query: O(log(n))
       - Update: O(log(n))
-   ![alt text](http://url/to/img.png)
+      
+      
+   ![Screenshot](images/segementTree.jpg)
+   
+   
          ### Implementation 
          
           
