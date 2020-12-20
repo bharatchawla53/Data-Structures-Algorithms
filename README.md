@@ -45,8 +45,6 @@
       
       
    ![Screenshot](images/segementTree.jpg)
-   
-   
-         ### Implementation 
+
          
           
